@@ -29,7 +29,17 @@ def data_exploration(df):
     print(df.describe().T)    
     print('___________________ Variables Categóricas _________________\n')
     print(df.describe(include='object').T)
-
+#%%
+# Eliminar registros duplicados
+def detele_duplicates(df):
+    print("____________________________________________________________")
+    # Elimino duplicados si los hay
+    if df.duplicated().any():
+        print(f"Hay {df.duplicated().sum()} registros duplicados encontrados y eliminados.")
+        df = df.drop_duplicates(keep='first')
+    else:
+        print("No se encontraron duplicados.")
+    return df
 #%%
 # Reemplazar nulos de columnas categoricas a 'Unknown'
 def nulls_to_unknown(df, columnas):

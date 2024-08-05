@@ -8,6 +8,9 @@ df_wines = sup.read_csv(ruta_input)
 # Exploración de datos 
 sup.data_exploration(df_wines)
 #%%
+# Eliminar registros duplicado
+df_wines = sup.detele_duplicates(df_wines)
+#%%
 # Reemplazar nulos de columnas categoricas a 'unknown'
 nulls_cat = ["type"]
 df_wines = sup.nulls_to_unknown(df_wines, nulls_cat)
