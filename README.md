@@ -2,7 +2,8 @@
 
 ![Cata y Data: Portafolio de Vinos Españoles. Análisis y Visualización de Datos en Power BI](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/header-cata-data.jpg)
 
-# Cata & Data: Portafolio de Vinos Españoles para Sumilleres
+# Cata & Data: Portafolio de Vinos Españoles
+
 ## Análisis y Visualización en Power BI
 *Equipo de desarrollo: Águila Elena [@eaguilag](https://github.com/eaguilag) y Tortarolo Franca [@FrancaTortaroloo](https://github.com/FrancaTortaroloo)*
 
