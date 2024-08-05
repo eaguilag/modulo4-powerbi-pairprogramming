@@ -1,6 +1,6 @@
 # Módulo 4: Proyecto en Power BI
 
-![Cata y Data: Portafolio de Vinos Españoles. Análisis y Visualización de Datos en Power BI](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/header-cata-data.jpg)
+![Cata y Data: Portafolio de Vinos Españoles. Análisis y Visualización de Datos en Power BI](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/header-cata-data.jpg)
 
 # Cata & Data: Portafolio de Vinos Españoles para Sumilleres
 ## Análisis y Visualización en Power BI
@@ -55,15 +55,15 @@ prestigio y accesibilidad, con características distintivas para ocasiones espec
 
 **1. Optimización de la Selección de Vinos:**
 
-    - Ayudar a seleccionar los mejores vinos para diferentes tipos de eventos o públicos basados en criterios como la calidad (según las calificaciones), precio, y características sensoriales como el cuerpo y la acidez.
+Ayudar a seleccionar los mejores vinos para diferentes tipos de eventos o públicos basados en criterios como la calidad (según las calificaciones), precio, y características sensoriales como el cuerpo y la acidez.
 
 **2. Mejora de la Experiencia del Consumidor:**
 
-    - Facilitar la personalización de la experiencia del consumidor al alinear las preferencias del público con los vinos disponibles, utilizando datos como la calidad y la popularidad, pero también el tipo de vino para proponer maridajes.
+Facilitar la personalización de la experiencia del consumidor al alinear las preferencias del público con los vinos disponibles, utilizando datos como la calidad y la popularidad, pero también el tipo de vino para proponer maridajes.
 
 **3. Incentivar el Consumo Local:**
 
-    - Proporcionar información sobre la disponibilidad de tipos de vinos según bodegas y regiones que ayuden a incentivar el consumo local y cercano.
+Proporcionar información sobre la disponibilidad de tipos de vinos según bodegas y regiones que ayuden a incentivar el consumo local y cercano.
 
 
 ## **3. Casos de Uso y Visualizaciones**
@@ -72,38 +72,38 @@ prestigio y accesibilidad, con características distintivas para ocasiones espec
 
 Identificamos regiones clave en España que son conocidas por producir vinos de alta calidad. Esto es útil para planificar eventos con temas regionales o para resaltar la autenticidad de los productos ofrecidos.
 
-![Vinos por Regiones y Bodegas](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/1-vinos-regiones-bodegas.jpg)
+![Vinos por Regiones y Bodegas](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/1-vinos-regiones-bodegas.JPG)
 
 **Caso de Uso 2: Preferencia por Años de Cosecha**
 
 Mostramos un análisis temporal de años de cosecha en relación con la calidad percibida de los vinos, destacando años excepcionales o tendencias crecientes en ciertos tipos de vino. Esto puede ayudar a identificar vinos de cosechas especiales que podrían ser de interés particular para coleccionistas.
 
-![Preferencias por Años de Cosecha](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/2-rating-anio.jpg)
+![Preferencias por Años de Cosecha](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/2-rating-anio.JPG)
 
 
 **Caso de Uso 3:  Preferencias Regionales**
 
 Identificamos la producción de vino por regiones de España así como el tipo de vino predominante. Esto ayuda a identificar qué tipos de vino son más populares y característicos según la zona y pudiendo sugerir al consumidor una degustación de productos locales.
 
-![Preferencias Regionales](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/3-vinos-region.jpg)
+![Preferencias Regionales](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/3-vinos-region.JPG)
 
 **Caso de Uso 4: Calidad y Valoración de los Vinos**
 
 Exploramos cómo la calidad (medida por las calificaciones o `rating`) se relaciona con el precio de los vinos. Este análisis ayuda a identificar vinos con alta relación calidad-precio, lo que es esencial para ofrecer recomendaciones que equilibren prestigio y accesibilidad.
 
-![Calidad y Valoración de Tipos de Vino](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/4-precio-rating-tipo.jpg)
+![Calidad y Valoración de Tipos de Vino](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/4-precio-rating-tipo.JPG)
 
 **Caso de Uso 5: Segmentación por Perfil Sensorial**
 
 Analizamos las características sensoriales de los vinos, como el cuerpo y la acidez, para ayudar al cliente a entender qué tipos de vinos se ajustan a ciertas preferencias de sabor o maridaje. Esto es crucial para recomendar tipos de vino que acompañen menús específicos o se ajusten a los gustos de los consumidodres.
 
-![Segmentación por Perfil Sensorial](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/5-acidez-cuerpo-tipo.jpg)
+![Segmentación por Perfil Sensorial](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/5-acidez-cuerpo-tipo.JPG)
 
 **Caso de Uso 6: Búsqueda Personalizada**
 
 Ofrecemos la posibilidad de personalizar la búsqueda de vinos para filtrar los resultados según las necesidades del cliente. El resultado será siempre de los cinco vinos mejor valorados según la calificación y el número de opiniones. Seleccionando el vino de preferencia, destacamos sus características sensoriales y sugerimos un maridaje.
 
-![Buscador de Vinos](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/tree/main/assets/6-buscador.gif)
+![Buscador de Vinos](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/assets/6-buscador.gif)
 
 
 El [archivo de Power BI](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/blob/main/dashboard_spanish_wines.pbix) está disponible en el repositorio.
