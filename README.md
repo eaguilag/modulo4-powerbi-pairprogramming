@@ -1,10 +1,11 @@
-# Vinos Españoles. Proyecto en Power BI.
+![Cata y Data: Portafolio de Vinos Españoles. Análisis y Visualización de Datos en Power BI](https://github.com/eaguilag/modulo4-powerbi-pairprogramming/header-cata-data.jpg)
 
-Equipo de desarrollo: Águila Elena y Tortarolo Franca
+# Vinos Españoles. Proyecto en Power BI.
+*Equipo de desarrollo: Águila Elena [@eaguilag](https://github.com/eaguilag) y Tortarolo Franca [@FrancaTortaroloo](https://github.com/FrancaTortaroloo)*
 
 Herramienta de visualización: Power BI
 
-En el presente proyecto tomamos un dataset sobre vinos españoles, de la página de Kaggle (enlace: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset).
+En el presente proyecto tomamos un dataset sobre vinos españoles, de la página de [Kaggle](enlace: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset).
 
 Está conformado por las siguientes columnas: 
 1. winery: bodega
@@ -20,4 +21,5 @@ Está conformado por las siguientes columnas:
 10. acidity: acidez del vino, es lo que hace que un vino sea refrescante y que tu lengua quiera otro sorbo (del 1 - 5)
 
 Dentro de ETL_Folder se encuentran 2 carpetas, `data` y `scripts`. Dentro de la carpeta `data` se encuentran otras dos más, `input data` y `output data`, en el primero se encuentra el csv original descargado de la página de Kaggle y en el segundo se encuentra el csv limpio con la información que nos resulta relevante para analizar y graficar en Power BI. Por otro lado, dentro de la carpeta `scripts` se encuentran los archivos `main.py` y `support.py`. Dentro del archivo de `main.py` se procesa los datos descargados y genera archivos limpios y transformados.
+
 
